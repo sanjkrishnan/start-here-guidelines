@@ -177,6 +177,7 @@
 - [@umarzub](https://github.com/umarzub)
 - [@pfisterSimo](https://github.com/pfisterSimo)
 - [@marissaaragon](https://github.com/marissaaragon)
+- [@sanjkrishnan](https://github.com/sanjkrishnan)
 - [@EvaHli](https://github.com/evahli)
 - [@Franciserah](https://github.com/Franciserah)
 - [@ryo873](https://github.com/ryo873)
